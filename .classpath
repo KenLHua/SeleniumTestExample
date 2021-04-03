@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" output="target/classes" path="src">
+		<attributes>
+			<attribute name="optional" value="true"/>
+			<attribute name="maven.pomderived" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-15">
+		<attributes>
+			<attribute name="module" value="true"/>
+			<attribute name="maven.pomderived" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="con" path="org.eclipse.jdt.junit.JUNIT_CONTAINER/5">
+		<attributes>
+			<attribute name="module" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="D:/User Folders/Desktop/Etc/Selenium/libs/byte-buddy-1.8.15.jar"/>
+	<classpathentry kind="lib" path="D:/User Folders/Desktop/Etc/Selenium/libs/commons-exec-1.3.jar"/>
+	<classpathentry kind="lib" path="D:/User Folders/Desktop/Etc/Selenium/libs/guava-25.0-jre.jar"/>
+	<classpathentry kind="lib" path="D:/User Folders/Desktop/Etc/Selenium/libs/okhttp-3.11.0.jar"/>
+	<classpathentry kind="lib" path="D:/User Folders/Desktop/Etc/Selenium/libs/okio-1.14.0.jar"/>
+	<classpathentry kind="lib" path="D:/User Folders/Desktop/Etc/Selenium/client-combined-3.141.59.jar"/>
+	<classpathentry kind="con" path="org.eclipse.m2e.MAVEN2_CLASSPATH_CONTAINER">
+		<attributes>
+			<attribute name="maven.pomderived" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="D:/User Folders/Desktop/Etc/Selenium/libs/junit-4.13.2.jar"/>
+	<classpathentry kind="output" path="target/classes"/>
+</classpath>
